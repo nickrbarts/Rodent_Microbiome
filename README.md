@@ -1,0 +1,2 @@
+# Rodent_Bacteria_Fungi_Microbiome
+n this study, we aim to disentangle the effects of fiber, protein, and their interaction on the responses of microbial communities in rodents with unique dietary strategies. In particular, we investigated how dietary manipulations of fiber and protein content altered the cecal morphology and microbial community composition of the herbivorous montane vole (Microtus montanus), the omnivorous white-footed mouse (Peromyscus leucopus), and the insectivorous Southern grasshopper mouse (Onychomys torridus). 
